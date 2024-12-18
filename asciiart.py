@@ -1,7 +1,7 @@
 # ASCII Art Generator Created by KC3SMW on a Tuesday.
 # This program is open source and welcome for anyone to use, modify, enhance to your liking.
 # Place this program in its own directory
-# create a virtual environment with python3 -m vevn .
+# create a virtual environment with python3 -m venv .
 # activate environment with source ./bin/activate
 # add the library with pip install pillow
 # place any picture in your program's directory
