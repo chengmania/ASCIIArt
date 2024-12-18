@@ -3,6 +3,7 @@
 # Place this program in its own directory
 # create a virtual environment with python3 -m vevn .
 # activate environment with source ./bin/activate
+# add the library with pip install pillow
 # place any picture in your program's directory
 # python3 asciiart.py to run.
 # Number will be the "resolution"  The larger the number the clearer the image will be
